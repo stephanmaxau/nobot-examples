@@ -1,7 +1,7 @@
 const os = require('os');
 
 const homeDirectory = os.homedir();
-console.log(`Your ho,e directory is: ${homeDirectory}`);
+console.log(`Your home directory is: ${homeDirectory}`);
 
 const osPlatform = os.platform();
 console.log(`The OS platform is: ${osPlatform}`);
